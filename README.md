@@ -1,4 +1,5 @@
-## Hi there 👋
+## My name is Spencer. I'm a husband and father pursuing a B.S.E @BYU-Idaho. Right now my time is spent juggling code, diapers, and mountain views in Utah.
+
 
 <!--
 **NeedleEater/NeedleEater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
